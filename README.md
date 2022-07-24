@@ -28,3 +28,6 @@ Rating: 80+ Gold
 | DPS-240WB (D240AS-01(?)) | 66VFV | Delta  | ???                  |
 | H240ES-00    | 709MT       | Hipro        | D240E003L            |
 | H240ES-01    | VMRD2       | Hipro        | D240E004L            |
+
+
+Any contributions to this compilation will be vey helpful, as this list is meant to assist people in understanding what is compatible whith what, since while these PSUs are mostly standard, they are deeper than the LFX standard dictates.
