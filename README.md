@@ -23,9 +23,9 @@ Rating: 80+ Gold
 |--------------|-------------|--------------|----------------------|
 | AC240ES-00   | J50TW       | AcBel        | PC1003(?)/240G(?)    |
 | AC240ES-01   | 1GC38       | AcBel        | PC3016(?)/240G2(?)   |
+| D240AS-01    | 66VFV       | Delta        | DPS-240WB            |
 | D240ES-00    | 592JG       | Delta        | DPS-240WB A          |
 | D240ES-01    | N9MWK       | Delta        | DPS-240AB-1 A        |
-| DPS-240WB (D240AS-01(?)) | 66VFV | Delta  | ???                  |
 | H240ES-00    | 709MT       | Hipro        | D240E003L            |
 | H240ES-01    | VMRD2       | Hipro        | D240E004L            |
 
