@@ -1,5 +1,5 @@
 # Dell-LFX-PSUs
-Repository of Dell LFX power supplies, starting with those meant for the Optiplex 790-7010 SFF lineups
+Repository of Dell LFX power supplies, starting with those meant for the Optiplex x90-x010 SFF lineups
 
 Optiplex 790-7010 SFF
 
