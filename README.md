@@ -1,2 +1,26 @@
 # Dell-LFX-PSUs
 Repository of Dell LFX Power Supplies, Starting With those Meant for the Optiplex 790-7010 SFF Lineups
+
+Optiplex 790-7010 SFF
+
+N/A
+AC240AS-00 - RV1C4 - AcBel   - PC1002(?)/240G(?)
+AC240AS-01 - 7NF62 - AcBel   - PCB015(?)/240G2(?)
+AC240AS-01 - JNPVV - AcBel   - PCB015(?)/241G2(?)
+D240AS-00  - 1N56T - Delta   - DPS-240AB-2 A
+D240AS-00  - CV7D3 - Delta   - DPS-240AB-5
+H240AS-01  - 3YKG5 - Hipro   - D240A005L
+H240AS-00  - 3WN11 - Hipro   - D240A002L
+H240AS-01  - PH3C2 - Hipro   - D240A003L
+L240AS-00  - 2TXYM - Lite-On - PS-5241-5DF
+L240AS-00  - F79TD - Lite-On - PS-5241-5DJ
+L240AS-00  - T5VF6 - Lite-On - PS-5241-5DG
+
+80+ Gold
+AC240ES-00 - J50TW - AcBel   - PC1003(?)/240G(?)
+AC240ES-01 - 1GC38 - AcBel   - PC3016(?)/240G2(?)
+D240ES-00  - 592JG - Delta   - DPS-240WB A
+D240ES-01  - N9MWK - Delta   - DPS-240AB-1 A
+DPS-240WB (D240AS-01(?))     - 66VFV - Delta
+H240ES-00  - 709MT - Hipro   - D240E003L
+H240ES-01  - VMRD2 - Hipro   - D240E004L
