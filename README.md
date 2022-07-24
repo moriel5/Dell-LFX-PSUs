@@ -1,7 +1,7 @@
 # Dell-LFX-PSUs
 Repository of Dell LFX power supplies, starting with those meant for the Optiplex x90-x010 SFF lineups
 
-Optiplex 790-7010 SFF
+Optiplex x90-x010 SFF
 
 Rating: N/A
 | Model Number | Part Number | Manufacturer | Factory Model Number |
