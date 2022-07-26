@@ -30,4 +30,4 @@ Rating: 80+ Gold
 | H240ES-01    | VMRD2       | Hipro        | D240E004L            |
 
 
-Any contributions to this compilation will be vey helpful, as this list is meant to assist people in understanding what is compatible whith what, since while these PSUs are mostly standard, they are deeper than the LFX standard dictates.
+Any contributions to this compilation will be vey helpful, as this list is meant to assist people in understanding what is compatible with what, since while these PSUs are mostly standard, they are deeper than the LFX standard dictates.
